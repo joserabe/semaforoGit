@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"principal","l":"ClaseColor"},{"p":"clases","l":"Estudiante"},{"p":"clases","l":"Ordenador"},{"p":"clases","l":"Persona"},{"p":"clases","l":"Profesor"}];updateSearchResults();
