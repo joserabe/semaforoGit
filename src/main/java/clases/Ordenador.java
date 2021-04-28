@@ -6,7 +6,6 @@ import java.util.Random;
  * @author Jose
  * @version 2.0
  * @since 1.5
- * @see <a href = https://docs.oracle.com/javase/7/docs/api/java/util/Random.html> Clase
  */
 public class Ordenador {
     /**
